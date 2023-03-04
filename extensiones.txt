@@ -1,0 +1,6 @@
+- Live Server
+- Prettier
+- GitLens
+- Material Icon Theme
+
+- Dracula
